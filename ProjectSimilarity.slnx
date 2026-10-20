@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ProjectSimilarity.Application/ProjectSimilarity.Application.csproj" />
+  <Project Path="ProjectSimilarity.API/ProjectSimilarity.API.csproj" />
+  <Project Path="ProjectSimilarity.Core/ProjectSimilarity.Core.csproj" />
+  <Project Path="ProjectSimilarity.Infrastructure/ProjectSimilarity.Infrastructure.csproj" />
+  <Project Path="ProjectSimilarity.MLEngine/ProjectSimilarity.MLEngine.csproj" />
+</Solution>

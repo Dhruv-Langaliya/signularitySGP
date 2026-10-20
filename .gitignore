@@ -1,0 +1,9 @@
+﻿bin/
+obj/
+*.user
+.vs/
+ProjectSimilarity.React/node_modules/
+ProjectSimilarity.React/dist/
+ProjectSimilarity.API/Data/*.db
+ProjectSimilarity.API/Data/uploads/
+.env
